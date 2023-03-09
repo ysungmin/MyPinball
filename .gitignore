@@ -1,3 +1,14 @@
+# Unity 프로젝트 생성시 생기는 디렉토리
 /[Ll]ibrary/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+# 임시파일
+/[Tt]emp/
+
+# 빌드 관련
+/[Oo]bj/
+
+# Visual studio 파일
+.vs/
+*.sln
+.vsconfig
