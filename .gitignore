@@ -11,3 +11,4 @@
 # Visual studio 파일
 .vs/
 *.sln
+.vsconfig
